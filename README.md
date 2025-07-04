@@ -3,16 +3,10 @@
 <div align="center">
   <h3>Software Engineer | Cloud Architect | Full Stack Developer</h3>
   <p>Passionate about building scalable applications and cloud architecture</p>
-  <p>
-    <a href="https://www.baalavignesh.com" target="_blank">
-      🌐 www.baalavignesh.com
-    </a>
+  <p align="center">
+    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: middle;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
   </p>
 </div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Baalavignesh&label=Profile%20views&color=0e75b6&style=flat" alt="baalavignesh" />
-</p>
 
 ---
 
@@ -98,27 +92,21 @@
   - Optimized frontend and backend components for performance
 
 ---
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/baalavignesh21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/pableboo21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@PAbleBoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="baalavignesh" />
 </p>
 
 ---
+<br>
 
-### 📫 How to reach me
-- Email: **baalavignesh21@gmail.com**
-- LinkedIn: [baalavignesh21](https://www.linkedin.com/in/baalavignesh21/)
-- GitHub: [baalavignesh](https://github.com/baalavignesh)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact" alt="baalavignesh" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baalavignesh&theme=dark" alt="baalavignesh's streak" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baalavignesh&label=Profile%20views&color=0e75b6&style=flat" alt="baalavignesh" />
+  <img src="https://img.shields.io/github/followers/Baalavignesh?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Baalavignesh?label=Stars&style=social" alt="stars" />
+</p>
+
