@@ -1,4 +1,4 @@
-# Hi 👋, I'm Baalavignesh Arunachalam
+# <div align="center">Hi 👋, I'm Baalavignesh Arunachalam</div>
 
 <div align="center">
   <h3>Software Engineer | Cloud Architect | Full Stack Developer</h3>
@@ -8,6 +8,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Baalavignesh&label=Profile%20views&color=0e75b6&style=flat" alt="baalavignesh" />
 </p>
+
+---
 
 ### 🏆 Certifications
 <p align="left">
@@ -22,6 +24,8 @@
   </a>
 </p>
 
+---
+
 ### 🏅 Hackathon Achievements
 
 - **Best Prototype Award** @ Story3 HackerEarth
@@ -32,14 +36,16 @@
   - Project: HealthHub
   - Healthcare appointment and community health alert platform
 
+---
+
 ### 🛠 Tech Stack
 
 #### Languages & Frameworks
 <p align="left">
   <img src="images/react.png" alt="React" width="40" height="40"/>
   <img src="images/python.svg" alt="Python" width="40" height="40"/>
-  <img src="images/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="images/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="images/ts.png" alt="TypeScript" width="40" height="40"/>
+  <img src="images/js.png" alt="JavaScript" width="40" height="40"/>
   <img src="images/angular.png" alt="Angular" width="40" height="40"/>
   <img src="images/fastapi.svg" alt="FastAPI" width="40" height="40"/>
   <img src="images/net.svg" alt=".NET" width="40" height="40"/>
@@ -67,6 +73,8 @@
   <img src="images/postman.png" alt="Postman" width="40" height="40"/>
 </p>
 
+---
+
 ### 💼 Work Experience
 
 - **Software Engineer** @ [Motate](https://motate.io/) _(May 2024 - Present)_
@@ -83,7 +91,9 @@
   - Developed full-stack application using React and AWS services
   - Implemented API Gateway, Lambda, and DynamoDB architecture
   - Optimized frontend and backend components for performance
-  
+
+---
+
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/baalavignesh21" target="_blank">
@@ -96,6 +106,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ### 📫 How to reach me
 - Email: **baalavignesh21@gmail.com**
