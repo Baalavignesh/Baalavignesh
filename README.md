@@ -1,32 +1,109 @@
-<h1 align="center">Hi 👋, I'm Baalavignesh Arunachalam</h1>
-<h3 align="center">Software Engineer | Cloud Architect | Full Stack Developer</h3>
+# Hi 👋, I'm Baalavignesh Arunachalam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Baalavignesh&label=Profile%20views&color=0e75b6&style=flat" alt="baalavignesh" /> </p>
+<div align="center">
+  <h3>Software Engineer | Cloud Architect | Full Stack Developer</h3>
+  <p>Passionate about building scalable applications and cloud architecture</p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/baalavignesh](https://github.com/baalavignesh)
-
-- 📫 How to reach me **baalavignesh21@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/baalavignesh21/](https://www.linkedin.com/in/baalavignesh21/)
-
-<p align="left"><a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/public_url"><img align="center" src="images/solutions-architect.png" height="200px" width="200px" /> <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/public_url"><img align="center" src="images/practitioner.png" height="200px" width="200px" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Baalavignesh&label=Profile%20views&color=0e75b6&style=flat" alt="baalavignesh" />
 </p>
 
-### Connect with me:
+### 🏆 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/ff42c6c7-1d83-4609-b678-c695ed78667a/public_url">
+    <img src="portfolio/app/public/static/achievements/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
+  </a>
+  <a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/linked_in_profile">
+    <img src="portfolio/app/public/static/achievements/solutions-architect.png" alt="AWS Solutions Architect" height="200px" width="200px"/>
+  </a>
+  <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/linked_in_profile">
+    <img src="portfolio/app/public/static/achievements/practitioner.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/baalavignesh21" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baalavignesh" height="30" width="40" /> </a> <a href="https://twitter.com/pableboo21" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baalavignesh" height="30" width="40" /> </a> <a href="https://www.youtube.com/@PAbleBoo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pableboo" height="30" width="40" /> </a> </p>
 
-### SkillSet:
 
-|  | **Tools** |
-| --- | --- |
-| **Languages** | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="images/c.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img align="left" src="images/c++.svg" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="images/python.svg" height="60px" width="60px" /></a><a href="https://www.javascript.com/"><img align="left" src="images/js.png" height="60px" width="60px" /></a><a href="https://www.typescriptlang.org/"><img align="left" src="images/ts.png" height="60px" width="60px" /></a> |
-| **FrontEnd** | <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="images/html.png" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="images/css.png" height="60px" width="60px" /></a> |
-| **Databases** | <a href="https://www.firebase.com/"><img align="left" src="images/firebase.png" height="60px" width="45px" /></a><a href="https://www.mongodb.com/"><img align="left" src="images/mongo.svg" height="60px" width="60px" /></a><a href="https://www.mysql.com/"><img align="left" src="images/mysql.png" height="60px" width="80px" /></a> |
-| **Frameworks** | <a href="https://expressjs.com/"><img align="left" src="images/express.png" height="50px" width="150px" /></a><a href="https://fastapi.tiangolo.com/"><img align="left" src="images/fastapi.png" height="60px" width="150px" /></a><a href="https://getbootstrap.com/"><img align="left" src="images/bootstrap.png" height="50px" width="60px" /></a><a href="https://angular.io/"><img align="left" src="images/angular.svg" height="60px" width="60px" /></a> |
-| **Libraries** | <a href="https://reactjs.org/"><img align="left" src="images/react.png" height="60px" width="60px" /></a><a href="https://redux.js.org/"><img align="left" src="images/redux.png" height="50px" width="60px" /></a><a href="https://jquery.com/"><img align="left" src="images/jquery.png" height="60px" width="60px" /></a> |
-| **Toolkits** | <a href="https://nodejs.org/en/"><img align="left" src="images/node.svg" height="55px" width="55px" /></a><a href="https://www.postman.com/"><img align="left" src="images/postman.png" height="60px" width="60px" /></a><a href="https://git-scm.com/"><img align="left" src="images/git.png" height="60px" width="60px" /></a><a href="https://www.docker.com/"><img align="left" src="images/docker.png" height="50px" width="70px" /></a> |
-| **Cloud Services** | <a href="https://aws.amazon.com/"><img align="left" src="images/aws.png" height="60px" width="60px" /></a><a href="https://www.heroku.com"><img align="left" src="images/heroku.png" height="60px" width="60px" /></a> |
-| **Platforms** | <a href="https://www.microsoft.com/en-in/windows"><img align="left" src="images/windows.png" height="60px" width="60px" /></a><a href="https://www.linux.org/"><img align="left" src="images/linux.jpg" height="60px" width="60px" /></a> |
+### 🏅 Hackathon Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact" alt="baalavignesh" /></p>
+- **Best Prototype Award** @ Story3 HackerEarth
+  - Project: NewEnd - GenMode
+  - AI-driven storytelling platform with dynamic narrative branches
+
+- **Honorable Mentions** @ DataPalooza
+  - Project: HealthHub
+  - Healthcare appointment and community health alert platform
+
+### 🛠 Tech Stack
+
+#### Languages & Frameworks
+<p align="left">
+  <img src="portfolio/app/public/static/skills/react.png" alt="React" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/python.svg" alt="Python" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/ts.png" alt="TypeScript" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/swift.svg" alt="Swift" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/nextjs.svg" alt="Next.js" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/angular.png" alt="Angular" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/net.svg" alt=".NET" width="40" height="40"/>
+</p>
+
+#### Cloud & DevOps
+<p align="left">
+  <img src="portfolio/app/public/static/skills/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/terraform.svg" alt="Terraform" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/azure.svg" alt="Azure" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/git.png" alt="Git" width="40" height="40"/>
+</p>
+
+#### Databases & Tools
+<p align="left">
+  <img src="portfolio/app/public/static/skills/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/mongo.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/firebase.svg" alt="Firebase" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/node.svg" alt="Node.js" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="portfolio/app/public/static/skills/postman.png" alt="Postman" width="40" height="40"/>
+</p>
+
+
+### 💼 Work Experience
+
+- **Software Engineer** @ [Motate](https://motate.io/) _(May 2024 - Present)_
+  - Building serverless multilingual content platform using AWS Lambda/API Gateway
+  - Implementing Terraform/GitHub Actions for AWS environments
+  - Optimizing DynamoDB schemas with secondary indexes
+
+- **Associate Engineer** @ [Presidio](https://www.presidio.com/) _(Sep 2023 - Jul 2024)_
+  - Developed internal learning platforms and retro tools using React and AWS
+  - Worked on WebRTC, CI/CD pipeline design, and mobile app development
+  - Gained expertise in Azure, DevOps, Flutter, Kotlin, AWS, and React Native
+
+- **Software Engineer Intern** @ [Toast](https://pos.toasttab.com/) _(Jun 2022 - Jul 2022)_
+  - Developed full-stack application using React and AWS services
+  - Implemented API Gateway, Lambda, and DynamoDB architecture
+  - Optimized frontend and backend components for performance
+  
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/baalavignesh21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/pableboo21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@PAbleBoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+### 📫 How to reach me
+- Email: **baalavignesh21@gmail.com**
+- LinkedIn: [baalavignesh21](https://www.linkedin.com/in/baalavignesh21/)
+- GitHub: [baalavignesh](https://github.com/baalavignesh)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact" alt="baalavignesh" />
+</p>
