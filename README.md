@@ -12,17 +12,15 @@
 ### 🏆 Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/ff42c6c7-1d83-4609-b678-c695ed78667a/public_url">
-    <img src="portfolio/app/public/static/achievements/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
+    <img src="images/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
   </a>
-  <a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/linked_in_profile">
-    <img src="portfolio/app/public/static/achievements/solutions-architect.png" alt="AWS Solutions Architect" height="200px" width="200px"/>
+  <a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/public_url">
+    <img src="images/solutions-architect.png" alt="AWS Solutions Architect" height="200px" width="200px"/>
   </a>
-  <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/linked_in_profile">
-    <img src="portfolio/app/public/static/achievements/practitioner.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
+  <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/public_url">
+    <img src="images/practitioner.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
   </a>
 </p>
-
-
 
 ### 🏅 Hackathon Achievements
 
@@ -38,36 +36,36 @@
 
 #### Languages & Frameworks
 <p align="left">
-  <img src="portfolio/app/public/static/skills/react.png" alt="React" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/python.svg" alt="Python" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/ts.png" alt="TypeScript" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/swift.svg" alt="Swift" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/nextjs.svg" alt="Next.js" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/angular.png" alt="Angular" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/net.svg" alt=".NET" width="40" height="40"/>
+  <img src="images/react.png" alt="React" width="40" height="40"/>
+  <img src="images/python.svg" alt="Python" width="40" height="40"/>
+  <img src="images/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="images/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="images/angular.png" alt="Angular" width="40" height="40"/>
+  <img src="images/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="images/net.svg" alt=".NET" width="40" height="40"/>
+  <img src="images/flutter.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 #### Cloud & DevOps
 <p align="left">
-  <img src="portfolio/app/public/static/skills/aws.svg" alt="AWS" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/terraform.svg" alt="Terraform" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/git.png" alt="Git" width="40" height="40"/>
+  <img src="images/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="images/terraform.svg" alt="Terraform" width="40" height="40"/>
+  <img src="images/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="images/azure.svg" alt="Azure" width="40" height="40"/>
+  <img src="images/git.png" alt="Git" width="40" height="40"/>
+  <img src="images/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
 
 #### Databases & Tools
 <p align="left">
-  <img src="portfolio/app/public/static/skills/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/mongo.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/node.svg" alt="Node.js" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/redux.svg" alt="Redux" width="40" height="40"/>
-  <img src="portfolio/app/public/static/skills/postman.png" alt="Postman" width="40" height="40"/>
+  <img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="images/mongo.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="images/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="images/firebase.svg" alt="Firebase" width="40" height="40"/>
+  <img src="images/node.svg" alt="Node.js" width="40" height="40"/>
+  <img src="images/redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="images/postman.png" alt="Postman" width="40" height="40"/>
 </p>
-
 
 ### 💼 Work Experience
 
