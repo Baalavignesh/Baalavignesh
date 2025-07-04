@@ -4,7 +4,7 @@
   <h3>Software Engineer | Cloud Architect | Full Stack Developer</h3>
   <p>Passionate about building scalable applications and cloud architecture</p>
   <p align="center">
-    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: middle;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
+    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
   </p>
 </div>
 
