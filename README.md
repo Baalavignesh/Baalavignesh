@@ -12,12 +12,16 @@
 
 ### 🏆 Certifications
 <p align="left">
-  <a href="https://www.credly.com/badges/ff42c6c7-1d83-4609-b678-c695ed78667a/public_url">
-    <img src="images/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
+  <a href="https://www.credly.com/badges/5396b331-4edb-4df4-8707-622d17e417d9/public_url">
+    <img src="images/ckad.png" alt="CKAD - Certified Kubernetes Application Developer" height="200px" width="200px"/>
   </a>
   <a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/public_url">
     <img src="images/solutions-architect.png" alt="AWS Solutions Architect" height="200px" width="200px"/>
   </a>
+  <a href="https://www.credly.com/badges/ff42c6c7-1d83-4609-b678-c695ed78667a/public_url">
+    <img src="images/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/public_url">
     <img src="images/practitioner.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
   </a>
