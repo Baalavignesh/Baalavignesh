@@ -85,7 +85,7 @@
   - Implementing Q-learning pipelines to study pricing strategy convergence and Nash equilibria
   - Presenting market dynamics insights for MBA analytics curriculum research
 
-- **Software Engineer** @ [Motate](https://motate.io/) _(May 2024 - Present)_
+- **Software Engineer** @ [Motate](https://motate.io/) _(May 2024 - August 2025)_
   - Building serverless multilingual content platform using AWS Lambda/API Gateway
   - Implementing Terraform/GitHub Actions for AWS environments
   - Optimizing DynamoDB schemas with secondary indexes
