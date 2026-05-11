@@ -17,17 +17,16 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/5396b331-4edb-4df4-8707-622d17e417d9/public_url">
-    <img src="images/ckad.png" alt="CKAD - Certified Kubernetes Application Developer" height="200px" width="200px"/>
+    <img src="images/ckad.png" alt="CKAD - Certified Kubernetes Application Developer" height="180px" width="180px"/>
   </a>
   <a href="https://www.credly.com/badges/60a34dc7-0735-41fb-b92c-930fc9922bae/public_url">
-    <img src="images/solutions-architect.png" alt="AWS Solutions Architect" height="200px" width="200px"/>
+    <img src="images/solutions-architect.png" alt="AWS Solutions Architect" height="180px" width="180px"/>
   </a>
   <a href="https://www.credly.com/badges/ff42c6c7-1d83-4609-b678-c695ed78667a/public_url">
-    <img src="images/terraform.png" alt="Terraform Associate" height="200px" width="200px"/>
+    <img src="images/terraform.png" alt="Terraform Associate" height="180px" width="180px"/>
   </a>
-  
   <a href="https://www.credly.com/badges/1e437970-3a19-47c8-955e-ccd11a9974cd/public_url">
-    <img src="images/practitioner.png" alt="AWS Cloud Practitioner" height="200px" width="200px"/>
+    <img src="images/practitioner.png" alt="AWS Cloud Practitioner" height="180px" width="180px"/>
   </a>
 </p>
 
@@ -122,7 +121,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=baalavignesh&theme=dark" alt="baalavignesh's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baalavignesh&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="baalavignesh's GitHub stats" />
 </p>
 
 <p align="center">
