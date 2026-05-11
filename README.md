@@ -1,19 +1,19 @@
 # <div align="center">Hi 👋, I'm Baalavignesh Arunachalam</div>
 
 <div align="center">
-  <h3>Software Engineer | Cloud Architect | Full Stack Developer</h3>
-  <p>Passionate about building scalable applications and cloud architecture</p>
+  <h3>Software Engineer | Full Stack Developer | iOS</h3>
+  <p>Full-stack developer with 2+ years professional experience in cloud computing, web, and app development. Recently shipped ByTime — a live iOS app on the App Store that lets users earn screen time by completing tasks.</p>
   <p align="center">
-    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
+    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: text-top;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
   </p>
     <p align="center">
-    <img src="images/apple_dark.svg" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> App Store: <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512">ByTime: Time Hub</a> 
+    <img src="images/apple_dark.svg" alt="Verified" width="16" height="16" style="vertical-align: text-top;"/> App Store: <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512">ByTime: Time Hub</a> 
   </p>
 </div>
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/5396b331-4edb-4df4-8707-622d17e417d9/public_url">
@@ -33,7 +33,19 @@
 
 ---
 
-### 🏅 Hackathon Achievements
+### App Store
+
+- **ByTime: Time Hub** — Available now on the Apple App Store
+  - A time management app designed to help you stay on top of your schedule
+  - <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512"><img src="images/apple_dark.svg" alt="App Store" width="14" height="14" style="vertical-align: text-top;"/> Download on the App Store</a>
+
+---
+
+### Hackathon Achievements
+
+- **Honorable Mention** @ Reddit & Kiro: Community Games Challenge
+  - Project: TheDiggerMan
+  - Incremental mining game built for Reddit with global leaderboards
 
 - **Best Prototype Award** @ Story3 HackerEarth
   - Project: NewEnd - GenMode
@@ -45,7 +57,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Languages & Frameworks
 
@@ -53,11 +65,10 @@
   <img src="images/react.png" alt="React" width="40" height="40"/>
   <img src="images/python.svg" alt="Python" width="40" height="40"/>
   <img src="images/ts.png" alt="TypeScript" width="40" height="40"/>
-  <img src="images/js.png" alt="JavaScript" width="40" height="40"/>
-  <img src="images/angular.png" alt="Angular" width="40" height="40"/>
+  <img src="images/swift.svg" alt="Swift / SwiftUI" width="40" height="40"/>
+  <img src="images/nextjs.svg" alt="Next.js" width="40" height="40"/>
+  <img src="images/node.svg" alt="Node.js" width="40" height="40"/>
   <img src="images/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="images/net.svg" alt=".NET" width="40" height="40"/>
-  <img src="images/flutter.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 #### Cloud & DevOps
@@ -66,33 +77,32 @@
   <img src="images/aws.svg" alt="AWS" width="40" height="40"/>
   <img src="images/terraform.svg" alt="Terraform" width="40" height="40"/>
   <img src="images/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="images/azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="images/git.png" alt="Git" width="40" height="40"/>
   <img src="images/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="images/git.png" alt="GitHub Actions" width="40" height="40"/>
+  <img src="images/azure.svg" alt="Azure" width="40" height="40"/>
 </p>
 
 #### Databases & Tools
 
 <p align="left">
-  <img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="images/mongo.svg" alt="MongoDB" width="40" height="40"/>
   <img src="images/postgresql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="images/mongo.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="images/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="images/node.svg" alt="Node.js" width="40" height="40"/>
-  <img src="images/redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="images/openai.svg" alt="OpenAI API" width="40" height="40"/>
   <img src="images/postman.png" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 - **Graduate Research Assistant** @ [George Mason University](https://www.gmu.edu/) _(Aug 2025 - Present)_
   - Modeling Bertrand competition scenarios with MARL simulations in Python and RLlib
   - Implementing Q-learning pipelines to study pricing strategy convergence and Nash equilibria
   - Presenting market dynamics insights for MBA analytics curriculum research
 
-- **Software Engineer** @ [Motate](https://motate.io/) _(May 2024 - August 2025)_
+- **Software Engineer** @ [Motate](https://motate.io/) _(May 2025 - August 2025)_
   - Building serverless multilingual content platform using AWS Lambda/API Gateway
   - Implementing Terraform/GitHub Actions for AWS environments
   - Optimizing DynamoDB schemas with secondary indexes
@@ -106,13 +116,6 @@
   - Developed full-stack application using React and AWS services
   - Implemented API Gateway, Lambda, and DynamoDB architecture
   - Optimized frontend and backend components for performance
-
----
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="baalavignesh" />
-</p>
 
 ---
 
