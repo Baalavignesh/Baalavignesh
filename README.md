@@ -6,6 +6,9 @@
   <p align="center">
     <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
   </p>
+    <p align="center">
+    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> App Store: <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512">ByTime: Time Hub</a> 
+  </p>
 </div>
 
 ---
