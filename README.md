@@ -7,13 +7,14 @@
     <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> Portfolio: <a href="https://www.baalavignesh.com">baalavignesh.com</a> 
   </p>
     <p align="center">
-    <img src="images/verified.png" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> App Store: <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512">ByTime: Time Hub</a> 
+    <img src="images/apple_dark.svg" alt="Verified" width="16" height="16" style="vertical-align: bottom;"/> App Store: <a href="https://apps.apple.com/us/app/bytime-time-hub/id6747457512">ByTime: Time Hub</a> 
   </p>
 </div>
 
 ---
 
 ### 🏆 Certifications
+
 <p align="left">
   <a href="https://www.credly.com/badges/5396b331-4edb-4df4-8707-622d17e417d9/public_url">
     <img src="images/ckad.png" alt="CKAD - Certified Kubernetes Application Developer" height="200px" width="200px"/>
@@ -47,6 +48,7 @@
 ### 🛠 Tech Stack
 
 #### Languages & Frameworks
+
 <p align="left">
   <img src="images/react.png" alt="React" width="40" height="40"/>
   <img src="images/python.svg" alt="Python" width="40" height="40"/>
@@ -59,6 +61,7 @@
 </p>
 
 #### Cloud & DevOps
+
 <p align="left">
   <img src="images/aws.svg" alt="AWS" width="40" height="40"/>
   <img src="images/terraform.svg" alt="Terraform" width="40" height="40"/>
@@ -69,6 +72,7 @@
 </p>
 
 #### Databases & Tools
+
 <p align="left">
   <img src="images/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="images/mongo.svg" alt="MongoDB" width="40" height="40"/>
@@ -104,12 +108,14 @@
   - Optimized frontend and backend components for performance
 
 ---
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baalavignesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="baalavignesh" />
 </p>
 
 ---
+
 <br>
 
 <p align="center">
@@ -121,4 +127,3 @@
   <img src="https://img.shields.io/github/followers/Baalavignesh?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/Baalavignesh?label=Stars&style=social" alt="stars" />
 </p>
-
